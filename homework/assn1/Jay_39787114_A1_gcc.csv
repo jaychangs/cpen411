@@ -1,0 +1,7 @@
+sim_num_cond_branches,0.1522
+sim_num_uncond_branches,0.0478
+sim_num_fp_inst,0.0000
+sim_num_store_inst,0.1407
+sim_num_ld_inst,0.2621
+sim_num_imm_inst,0.1774
+sim_avg_reg_bits_chng,7.3105

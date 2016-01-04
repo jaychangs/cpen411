@@ -1,0 +1,6 @@
+icache_direct_miss, 3.7723
+icache_setassoc_miss, 3.4102
+dcache_load_miss, 9.3598
+dcache_store_miss, 5.8013
+dcache_wback, 2.8812
+icache_pref_miss, value

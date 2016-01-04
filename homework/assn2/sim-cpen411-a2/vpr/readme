@@ -1,0 +1,3 @@
+../sim-safe -max:inst 200000000 vpr.ss net.in arch.in place.in route.out -nodisp -route_only \
+		  -route_chan_width 15 -pres_fac_mult 2 -acc_fac 1 \
+		  -first_iter_pres_fac 4 -initial_pres_fac 8
